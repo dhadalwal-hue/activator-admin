@@ -1,0 +1,15 @@
+# Generated on 2026-11-06
+# Language detection rules
+docs/**/*.html linguist-vendored
+*.min.js linguist-generated
+*.yml linguist-detectable=false
+
+*.png binary
+node_modules/* linguist-vendored
+*.ts linguist-detectable
+*.md linguist-documentation
+
+*.min.css linguist-generated
+*.ico binary
+
+# eof d4a38231

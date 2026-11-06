@@ -1,0 +1,5 @@
+.env
+.cache/
+.next/
+.DS_Store
+.env.local
